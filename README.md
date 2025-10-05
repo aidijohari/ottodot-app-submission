@@ -6,8 +6,8 @@ This is my submission for the AI Math Problem generator
 
 ## Assessment Submission
 
-1. **GitHub Repository URL**: [Make sure it's public](https://github.com/aidijohari/ottodot-app-submission)
-2. **Live Demo URL**: https://ottodot-app-submission.vercel.app/
+1. **GitHub Repository URL**: [GitHub URL](https://github.com/aidijohari/ottodot-app-submission)
+2. **Live Demo URL**: [Vercel Demo URL] (https://ottodot-app-submission.vercel.app/)
 3. **Supabase Credentials**: Add these to your README for testing:
    ```
    SUPABASE_URL: https://oujnuoktojhblxjazmzh.supabase.co
